@@ -1,2 +1,2 @@
 # Dna_seq_gene_family_prediction
-this projects involves encoding human dna sequence using k-mer method to predict gene family class
+this project involves encoding human dna sequences using k-mer method to predict functional Protein classes
